@@ -95,9 +95,8 @@ I'm a **Data Scientist** passionate about building intelligent systems and turni
 |---|---|
 | Statistics for Data Science and Business Analysis | Udemy |
 | Design and Analysis of Algorithm Masterclass | Udemy |
-| Cyber Security: Attacks and How to Protect Yourself | — |
 | The Complete Foundation Stock Trading Course | Udemy |
-| R for Beginners | — |
+| R for Beginners | Udemy |
 | Accelerate Research using Elsevier's Scopus | Elsevier |
 | Effective Scholarly Research using EBSCO | EBSCO |
 
