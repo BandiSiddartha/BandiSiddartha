@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Data Scientist** passionate about building intelligent systems and turning raw data into actionable insights. I specialize in **Machine Learning, NLP, and Predictive Modeling**, with hands-on experience across the full data pipeline — from data wrangling to model deployment.
+I'm a **Data Scientist** passionate about building intelligent systems and turning raw data into actionable insights. I specialize in **Machine Learning, NLP, and Predictive Modeling**, with hands-on experience across the full data pipeline from data wrangling to model deployment.
 
 - 🎓 Recent graduate — **May 2026**
 - 🔍 Actively seeking **Data Science / ML / AI** roles
@@ -83,14 +83,14 @@ I'm a **Data Scientist** passionate about building intelligent systems and turni
   <tr>
     <td valign="top" width="50%">
       <h4>🔍 <a href="https://github.com/BandiSiddartha/Multi-Level-Anomaly-Detection-in-Financial-Transactions">Multi-Level Anomaly Detection in Financial Transactions</a></h4>
-      <p>End-to-end fraud detection across 5 ML/DL models on 284K+ transactions — 90% fraud capture at a 0.08% false-positive rate, with SHAP explainability and cost-sensitive optimization.</p>
+      <p>End-to-end fraud detection across 5 ML/DL models on 284K+ transactions. 90% fraud capture at a 0.08% false-positive rate, with SHAP explainability and cost-sensitive optimization.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
       <img src="https://img.shields.io/badge/SHAP-FF6F00?style=flat-square&logo=python&logoColor=white"/>
     </td>
     <td valign="top" width="50%">
       <h4>🤖 <a href="https://github.com/BandiSiddartha/CartPole-Q-Learning-Agent">CartPole Q-Learning Agent</a></h4>
-      <p>A reinforcement learning agent that solves CartPole-v1 using tabular Q-learning built from scratch — physics-informed state discretization and epsilon-greedy exploration converging to a stable max-reward policy.</p>
+      <p>A reinforcement learning agent that solves CartPole-v1 using tabular Q-learning built from scratch. Physics-informed state discretization and epsilon-greedy exploration converging to a stable max-reward policy.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Reinforcement%20Learning-FF6F00?style=flat-square&logo=python&logoColor=white"/>
     </td>
@@ -98,14 +98,14 @@ I'm a **Data Scientist** passionate about building intelligent systems and turni
   <tr>
     <td valign="top" width="50%">
       <h4>⚡ <a href="https://github.com/BandiSiddartha/Predicting-future-values-for-monthly-electricity-consumption">Monthly Electricity Consumption Forecasting</a></h4>
-      <p>Time-series forecasting of electricity demand across two climate zones using SVM, LSTM & FFNN with SHAP/LIME interpretability — 0.96 R² with LSTM on Phoenix.</p>
+      <p>Time-series forecasting of electricity demand across two climate zones using SVM, LSTM & FFNN with SHAP/LIME interpretability 0.96 R² with LSTM on Phoenix.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/LSTM-EE4C2C?style=flat-square&logo=python&logoColor=white"/>
     </td>
     <td valign="top" width="50%">
       <h4>🧠 <a href="https://github.com/BandiSiddartha/Feedforward-Neural-Network-from-Scratch">Feedforward Neural Network from Scratch</a></h4>
-      <p>A 2-layer neural network built from scratch in pure Python/NumPy (no frameworks) to predict aircraft pitch from flight telemetry — 96.55% R² via manual forward/backpropagation.</p>
+      <p>A 2-layer neural network built from scratch in pure Python/NumPy (no frameworks) to predict aircraft pitch from flight telemetry 96.55% R² via manual forward/backpropagation.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
     </td>
