@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/bandi-siddartha/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://ob.zapfolio.in/siddarthabandi5">
+  <a href="https://bandisiddartha.github.io/siddartha-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
   </a>
   <a href="mailto:siddarthabandi5@gmail.com">
@@ -146,7 +146,7 @@ I'm a **Data Scientist** passionate about building intelligent systems and turni
     <img src="https://img.shields.io/badge/LinkedIn-bandi--siddartha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://ob.zapfolio.in/siddarthabandi5">
+  <a href="https://bandisiddartha.github.io/siddartha-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
   </a>
   &nbsp;
