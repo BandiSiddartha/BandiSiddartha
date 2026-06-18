@@ -79,12 +79,22 @@ I'm a **Data Scientist** passionate about building intelligent systems and turni
 
 ## 🚀 Projects
 
-| Project | Description |
-|---|---|
-| [Multi-Level Anomaly Detection in Financial Transactions](https://github.com/BandiSiddartha/Multi-Level-Anomaly-Detection-in-Financial-Transactions) | End-to-end fraud detection across 5 ML/DL models on 284K+ transactions — 90% fraud capture at a 0.08% false-positive rate, with SHAP explainability and cost-sensitive optimization. |
-| [CartPole Q-Learning Agent](https://github.com/BandiSiddartha/CartPole-Q-Learning-Agent) | A reinforcement learning agent that solves CartPole-v1 using tabular Q-learning built from scratch — physics-informed state discretization and epsilon-greedy exploration converging to a stable max-reward policy. |
-| [Monthly Electricity Consumption Forecasting](https://github.com/BandiSiddartha/Predicting-future-values-for-monthly-electricity-consumption) | Time-series forecasting of electricity demand across two climate zones using SVM, LSTM & FFNN with SHAP/LIME interpretability — 0.96 R² with LSTM on Phoenix. |
-| [Feedforward Neural Network from Scratch](https://github.com/BandiSiddartha/Feedforward-Neural-Network-from-Scratch) | A 2-layer neural network built from scratch in pure Python/NumPy (no frameworks) to predict aircraft pitch from flight telemetry — 96.55% R² via manual forward/backpropagation. |
+<p align="center">
+  <a href="https://github.com/BandiSiddartha/Multi-Level-Anomaly-Detection-in-Financial-Transactions">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=BandiSiddartha&repo=Multi-Level-Anomaly-Detection-in-Financial-Transactions&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/BandiSiddartha/CartPole-Q-Learning-Agent">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=BandiSiddartha&repo=CartPole-Q-Learning-Agent&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/BandiSiddartha/Predicting-future-values-for-monthly-electricity-consumption">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=BandiSiddartha&repo=Predicting-future-values-for-monthly-electricity-consumption&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/BandiSiddartha/Feedforward-Neural-Network-from-Scratch">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=BandiSiddartha&repo=Feedforward-Neural-Network-from-Scratch&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
 
 ---
 
